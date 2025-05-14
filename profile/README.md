@@ -1,7 +1,7 @@
 # Independent Evaluation Unit – Green Climate Fund
 
 Welcome to the IEU DataLab ! 
-We are the analytics and data science team within the Independent Evaluation Unit (IEU) of the Green Climate Fund. This space hosts data tools, replication packages, and code repositories supporting our evaluations of GCF's portfolio and operations.
+We are the analytics and data science team within the Independent Evaluation Unit of the Green Climate Fund. This space hosts data tools, replication packages, and code repositories supporting our evaluations of GCF's portfolio and research.
 
 ---
 
