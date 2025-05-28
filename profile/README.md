@@ -11,23 +11,20 @@ The IEU DataLab collects and analyzes evidence to support IEU's independent eval
 
 ### What We've Delivered
 Over the past years, our team has successfully supported multiple high-impact evaluations including:
+
 - [Latin America and Caribbean (LAC) regional evaluation](https://ieu.greenclimate.fund/document/final-report-lac2024)
 - [Indigenous Peoples evaluation](https://ieu.greenclimate.fund/document/final-report-ips2024)
-- [Country Ownership assessment(upcoming)](#)
-- [Simplified Approval Process (SAP) evaluation(upcoming)](#)
-- [Climate Information and Early warning sysytems (upcoming)](#)
-- [Monitoring & Evaluation systems strengthening (upcoming)](#)
-
-  In addition to evaluations, we also develop tools that enable large-scale data processing.
-
-🔧 Special thanks to [@Agcaro]((https://github.com/Agcaro)) for developing automated text extraction scripts  
-that identify and extract specific sections from funding proposals across the entire GCF portfolio.  
+- ⏳ *Country Ownership assessment (upcoming)*
+- ⏳ *Simplified Approval Process evaluation (upcoming)*
+- ⏳ *Climate Information and Early Warning Systems (upcoming)*
+- ⏳ *Monitoring & Evaluation systems strengthening (upcoming)*
 
 ---
 
 ## 🛠️ How We Work
 
 We employ cutting-edge methodologies including:
+
 - **Machine Learning & Large Language Models (LLMs)** for data processing and analysis  
 - **Econometric and statistical methods** for impact assessment  
 - **Advanced data visualization** to build evidence into meaningful data stories  
@@ -54,11 +51,13 @@ This GitHub organization serves as our knowledge sharing and documentation hub, 
 - **Documentation & guides** – Best practices for data workflows, both internal and public-facing  
 - **Replication packages** – Complete datasets and code to reproduce evaluation findings
 
-## 🧰 Analytical Tools
+## 🧰 Analytical Tools 🔧
 
 | Tool | Description | Author |
 |------|-------------|--------|
 | [FP-text-extraction](https://github.com/Agcaro/FP-text-extraction) | Script for large-scale extraction of proposal sections from PDFs | [@Agcaro](https://github.com/Agcaro) |
+
+
 
 ---
 
