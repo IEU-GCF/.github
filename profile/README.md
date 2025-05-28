@@ -1,45 +1,83 @@
-# Independent Evaluation Unit – Green Climate Fund
+# Independent Evaluation Unit – Green Climate Fund DataLab
 
-Welcome to the IEU DataLab ! 
-We are the analytics and data science team within the Independent Evaluation Unit of the Green Climate Fund. This space hosts data tools, replication packages, and code repositories supporting our evaluations of GCF's portfolio and research.
-
----
-
-## 📊 What is the IEU DataLab?
-
-The IEU DataLab leads quantitative and geospatial work for rigorous, evidence-based evaluations conducted by the IEU. We maintain and analyze high-quality datasets, apply advanced analytical methods, and support learning through real-time impact assessments.
-
-You’ll find here:
-- Code for published and ongoing evaluations
-- Open-source tools for portfolio analytics and geospatial mapping
-- Documentation for internal and public data workflows
+Welcome to the **IEU DataLab**!  
+We are the analytics and data science team within the Independent Evaluation Unit of the Green Climate Fund, dedicated to collecting and analyzing evidence that drives rigorous, policy-relevant evaluations of GCF's climate finance portfolio.
 
 ---
 
-## 🔍 Use of Code
+## 🎯 Our Mission & Accomplishments
 
-All code in public repositories may be used under the license specified in each repo. We encourage open science, reproducibility, and collaboration.
+The IEU DataLab collects and analyzes evidence to support IEU's independent evaluations, transforming complex data into actionable policy recommendations through innovative analytical approaches.
 
----
+### What We've Delivered
+Over the past years, our team has successfully supported multiple high-impact evaluations including:
+- [Latin America and Caribbean (LAC) regional evaluation](#)
+- [Indigenous Peoples evaluation](#)
+- [Country Ownership assessment](#)
+- [Simplified Approval Process (SAP) evaluation](#)
+- [Country-level Impact Evaluation Workshops (CIEWs)](#)
+- [Monitoring & Evaluation systems strengthening (upcoming)](#)
 
-## 🔐 Request Access to Private Repos
+  In addition to evaluations, we also develop tools that enable large-scale data processing.
 
-Are you a collaborator or team member?  
-Follow internal IEU guidance or email [ieu.datalab@gcfund.org](mailto:ieu.datalab@gcfund.org) to request access.
-
----
-
-## 🧰 Create a New Repository
-
-If you are a member of the IEU-GCF GitHub organization, you may request a new repository through the team’s GitHub admin. Follow internal request protocols or submit via internal forms.
-
----
-
-## 📁 Key DataLab Projects Hosted Elsewhere
-
-Some IEU-affiliated repositories are hosted externally or jointly maintained. These include:
-
+🔧 Special thanks to [@Agcaro]((https://github.com/Agcaro)) for developing automated text extraction scripts  
+that identify and extract specific sections from funding proposals across the entire GCF portfolio.  
 
 ---
 
-## 🔗 Learn More
+## 🛠️ How We Work
+
+We employ cutting-edge methodologies including:
+- **Machine Learning & Large Language Models (LLMs)** for data processing and analysis  
+- **Econometric and statistical methods** for impact assessment  
+- **Advanced data visualization** to build evidence into meaningful data stories  
+- **Geospatial analytics** for location-based insights  
+
+---
+
+## 📚 Knowledge Sharing Platform
+
+This GitHub organization serves as our knowledge sharing and documentation hub, designed to enhance:
+
+- 🔍 **Accountability** – All analytical work is documented and traceable  
+- 🌐 **Transparency** – Open access to methodologies and code where possible  
+- 🔄 **Replicability** – Standardized workflows enable consistent, reproducible results  
+- ⚡ **Efficiency** – Shared resources and templates save time across evaluations  
+- 🚀 **Innovation** – Collaborative space for testing new approaches and tools  
+
+---
+
+## 📊 What You'll Find Here
+
+- **Evaluation code repositories** – Scripts and analysis workflows from published and ongoing evaluations  
+- **Open-source analytical tools** – Portfolio analytics, geospatial mapping, and data processing utilities  
+- **Documentation & guides** – Best practices for data workflows, both internal and public-facing  
+- **Replication packages** – Complete datasets and code to reproduce evaluation findings  
+
+---
+
+## 🔍 Using Our Code
+
+All code in public repositories may be used under the license specified in each repository.  
+We encourage open science, reproducibility, and collaboration with the broader climate finance and evaluation communities.
+
+---
+
+## 🔐 Access & Collaboration
+
+**Need access to private repositories?**  
+Team members and authorized collaborators can follow internal IEU guidance or email `ieu.datalab@gcfund.org` to request access.
+
+**IEU-GCF organization members:**  
+Request new repositories through the team's GitHub admin following internal protocols or submit via internal request forms.
+
+---
+
+## 📁 External & Joint Projects
+
+Some GCF-affiliated repositories are hosted externally or maintained jointly with partner organizations.  
+For a complete overview of our work, please contact the DataLab team.
+
+---
+
+> **The IEU DataLab – Where data meets impact in climate finance evaluation.**
