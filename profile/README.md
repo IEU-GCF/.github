@@ -52,7 +52,13 @@ This GitHub organization serves as our knowledge sharing and documentation hub, 
 - **Evaluation code repositories** – Scripts and analysis workflows from published and ongoing evaluations  
 - **Open-source analytical tools** – Portfolio analytics, geospatial mapping, and data processing utilities  
 - **Documentation & guides** – Best practices for data workflows, both internal and public-facing  
-- **Replication packages** – Complete datasets and code to reproduce evaluation findings  
+- **Replication packages** – Complete datasets and code to reproduce evaluation findings
+
+## 🧰 Analytical Tools
+
+| Tool | Description | Author |
+|------|-------------|--------|
+| [FP-text-extraction](https://github.com/Agcaro/FP-text-extraction) | Script for large-scale extraction of proposal sections from PDFs | [@Agcaro](https://github.com/Agcaro) |
 
 ---
 
