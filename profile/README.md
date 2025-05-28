@@ -46,7 +46,9 @@ This GitHub organization serves as our knowledge sharing and documentation hub, 
 
 ## 📊 What You'll Find Here
 
-- **Evaluation code repositories** – Scripts and analysis workflows from published and ongoing evaluations  
+- **Evaluation code repositories** – Scripts and analysis workflows from published and ongoing evaluations
+  - [Gender score analysis](https://github.com/IEU-GCF/IP2024) → Includes scripts, data, and the recipe
+    
 - **Open-source analytical tools** – Portfolio analytics, geospatial mapping, and data processing utilities  
 - **Documentation & guides** – Best practices for data workflows, both internal and public-facing  
 - **Replication packages** – Complete datasets and code to reproduce evaluation findings
