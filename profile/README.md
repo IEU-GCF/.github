@@ -1,9 +1,14 @@
 # Independent Evaluation Unit – Green Climate Fund DataLab
 
+
 Welcome to the **IEU DataLab**!  
 We are the analytics and data science team within the Independent Evaluation Unit of the Green Climate Fund, dedicated to collecting and analyzing evidence that drives rigorous, policy-relevant evaluations of GCF's climate finance portfolio.
 
+> “Simple can be harder than complex. You have to work hard to get your thinking clean to make it simple.”  
+> — Steve Jobs
+
 ---
+
 
 ## 🎯 Our Mission & Accomplishments
 
@@ -21,7 +26,7 @@ Over the past years, our team has successfully supported multiple high-impact ev
 
 ---
 
-## 🛠️ How We Work
+## 🛠️ Motto
 
 We employ cutting-edge methodologies including:
 
@@ -44,7 +49,7 @@ This GitHub organization serves as our knowledge sharing and documentation hub, 
 
 ---
 
-## 📊 What You'll Find Here
+## 📊 How evidence is captured?
 
 - **Evaluation code repositories** – Scripts and analysis workflows from published and ongoing evaluations
   - [Gender score analysis](https://github.com/IEU-GCF/IP2024) → Includes scripts, data, and the recipe
@@ -53,7 +58,7 @@ This GitHub organization serves as our knowledge sharing and documentation hub, 
 - **Documentation & guides** – Best practices for data workflows, both internal and public-facing  
 - **Replication packages** – Complete datasets and code to reproduce evaluation findings
 
-## 🧰 Analytical Tools 🔧
+## 🧰 Efficient Tools we built 🔧
 
 | Tool | Description | Author |
 |------|-------------|--------|
