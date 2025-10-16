@@ -21,7 +21,7 @@ Over the past years, our team has successfully supported multiple high-impact ev
 - [Indigenous Peoples evaluation](https://ieu.greenclimate.fund/document/final-report-ips2024)
 - ⏳ *Country Ownership assessment (upcoming)*
 - ⏳ *Simplified Approval Process evaluation (upcoming)*
-- ⏳ *Climate Information and Early Warning Systems (upcoming)*
+- [Climate Information and Early Warning Systems](https://github.com/IEU-GCF/ciews)
 - ⏳ *Monitoring & Evaluation systems strengthening (upcoming)*
 
 ---
