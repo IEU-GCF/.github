@@ -63,7 +63,7 @@ This GitHub organization serves as our knowledge sharing and documentation hub, 
 | Tool | Description | Author |
 |------|-------------|--------|
 | [FP-text-extraction](https://github.com/Agcaro/FP-text-extraction) | Script for large-scale extraction of proposal sections from PDFs | [@Agcaro](https://github.com/Agcaro) |
-| [concept-note-scrapper](https://github.com/IEU-GCF/concept-note-scraper) | Script for list of publicly available concept notes | [@awongonki](https://github.com/awongonki) |
+| [concept-note-scraper](https://github.com/IEU-GCF/concept-note-scraper) | Script for list of publicly available concept notes | [@awongonki](https://github.com/awongonki) |
 | [ppf-extractor](https://github.com/IEU-GCF/ppf-helper-tool) | PPF PDF files available as of October 2025 | [@voismager](https://github.com/voismager) |
 
 
