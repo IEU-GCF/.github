@@ -1,4 +1,4 @@
-# Independent Evaluation Unit – Green Climate Fund DataLab
+# Independent Evaluation Unit – DataLab
 
 
 Welcome to the **IEU DataLab**!  
