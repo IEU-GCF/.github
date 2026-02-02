@@ -63,6 +63,7 @@ This GitHub organization serves as our knowledge sharing and documentation hub, 
 | Tool | Description | Author |
 |------|-------------|--------|
 | [FP-text-extraction](https://github.com/Agcaro/FP-text-extraction) | Script for large-scale extraction of proposal sections from PDFs | [@Agcaro](https://github.com/Agcaro) |
+| [concept-note-scrapper](https://github.com/IEU-GCF/concept-note-scraper) | Script for list of publicly available concept notes | [@oawongonki](https://github.com/awongonki) |
 
 
 
