@@ -58,12 +58,12 @@ This GitHub organization serves as our knowledge sharing and documentation hub, 
 - **Documentation & guides** – Best practices for data workflows, both internal and public-facing  
 - **Replication packages** – Complete datasets and code to reproduce evaluation findings
 
-## 🧰 Efficient Tools we built 🔧
+## 🧰 Tools we built 🔧
 
 | Tool | Description | Author |
 |------|-------------|--------|
 | [FP-text-extraction](https://github.com/Agcaro/FP-text-extraction) | Script for large-scale extraction of proposal sections from PDFs | [@Agcaro](https://github.com/Agcaro) |
-| [concept-note-scrapper](https://github.com/IEU-GCF/concept-note-scraper) | Script for list of publicly available concept notes | [@oawongonki](https://github.com/awongonki) |
+| [concept-note-scrapper](https://github.com/IEU-GCF/concept-note-scraper) | Script for list of publicly available concept notes | [@awongonki](https://github.com/awongonki) |
 
 
 
