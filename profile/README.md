@@ -23,7 +23,7 @@ Over the past years, our team has successfully supported multiple high-impact ev
 - ⏳ *Simplified Approval Process evaluation (upcoming)*
 - [Climate Information and Early Warning Systems](https://github.com/IEU-GCF/ciews)
 - ⏳ *Monitoring & Evaluation systems strengthening (upcoming)*
-- [Third Performance Review (upcoming]((https://ieu.greenclimate.fund/evaluation/tpr2025)
+- [Third Performance Review (upcoming](https://ieu.greenclimate.fund/evaluation/tpr2025)
 ---
 
 ## 🛠️ Motto
