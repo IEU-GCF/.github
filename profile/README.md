@@ -25,7 +25,7 @@ Over the past years, our team has successfully supported multiple high-impact ev
 - ⏳ *Monitoring & Evaluation systems strengthening (upcoming)*
 - [Third Performance Review (upcoming](https://ieu.greenclimate.fund/evaluation/tpr2025)
 - [Gender Sysnthesis (https://ieu.greenclimate.fund/gender2025/synthesis)
----
+--- * Readiness evalaution 2026*
 
 ## 🛠️ Motto
 
