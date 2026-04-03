@@ -24,8 +24,8 @@ Over the past years, our team has successfully supported multiple high-impact ev
 - [Climate Information and Early Warning Systems](https://github.com/IEU-GCF/ciews)
 - ⏳ *Monitoring & Evaluation systems strengthening (upcoming)*
 - [Third Performance Review (upcoming](https://ieu.greenclimate.fund/evaluation/tpr2025)
-- [Gender Sysnthesis (https://ieu.greenclimate.fund/gender2025/synthesis)
-- [Readiness evalaution 2026](https://ieu.greenclimate.fund/evaluation/rpsp2026)
+- [Gender Sysnthesis] (https://ieu.greenclimate.fund/gender2025/synthesis)
+- [Readiness evaluation 2026](https://ieu.greenclimate.fund/evaluation/rpsp2026)
 
 ## 🛠️ Motto
 
