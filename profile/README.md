@@ -1,7 +1,7 @@
 # Independent Evaluation Unit – Excellence team
 
 
-Welcome to the **IEU DataLab**!  
+Welcome to the **IEU Excellence Team**!  
 We are the analytics and data science team within the Independent Evaluation Unit of the Green Climate Fund, dedicated to collecting and analyzing evidence that drives rigorous, policy-relevant evaluations of GCF's climate finance portfolio.
 
 > “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”  
